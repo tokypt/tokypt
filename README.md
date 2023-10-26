@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning data analysis using SQL, Python and R.
+- 🌱 I’m currently learning data analysis using SQL, BI and R.
 
 
 <!---
