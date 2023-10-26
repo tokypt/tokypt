@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Wurgh
 - 🌱 I’m currently learning data analysis using SQL, Python and R.
 
 
